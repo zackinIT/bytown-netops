@@ -1,0 +1,5 @@
+Q1:7866dd1c
+Q2:3 
+Q3:git pull to get the latest changes from GitHub before trying to push again. Fix any conflicts if there are any 
+Q4: No, gitignore doesnt remove passwords from previous commits. The password is still in Gits history, so it needs to be changed
+Q5: git branch -d old-fix deletes the branch locally, and git push origin --delete old-fix deletes it from Github
